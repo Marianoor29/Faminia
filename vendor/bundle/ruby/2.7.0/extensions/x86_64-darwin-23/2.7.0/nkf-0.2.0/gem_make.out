@@ -1,0 +1,20 @@
+current directory: /Users/marianoor/Documents/GitHub/Faminia_App/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/usr/local/opt/ruby@2.7/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/marianoor/Documents/GitHub/Faminia_App/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250410-10642-wcqbc0 sitelibdir\=./.gem.20250410-10642-wcqbc0 clean
+
+current directory: /Users/marianoor/Documents/GitHub/Faminia_App/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250410-10642-wcqbc0 sitelibdir\=./.gem.20250410-10642-wcqbc0
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.2.7'
+
+current directory: /Users/marianoor/Documents/GitHub/Faminia_App/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250410-10642-wcqbc0 sitelibdir\=./.gem.20250410-10642-wcqbc0 install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250410-10642-wcqbc0
+
+current directory: /Users/marianoor/Documents/GitHub/Faminia_App/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250410-10642-wcqbc0 sitelibdir\=./.gem.20250410-10642-wcqbc0 clean
